@@ -10,8 +10,8 @@ Financial application developed based on MEANSTACK course udemy.com
 
 ### Requirements
 
-- `--NodeJS`: Version XX
-- `--MongoDB`: Version XX
+- `--NodeJS`: v6.11.1
+- `--MongoDB`: XX
 
 ### Cloning this repository
 
