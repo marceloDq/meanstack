@@ -1,6 +1,10 @@
 # MEAN MEANSTACK APP FINANCIAL
 
 Financial application developed based on MEANSTACK course udemy.com
+- `--Mongo`
+- `--Express`
+- `--AngularJS`
+- `--NodeJS`
 
 ## Development
 
